@@ -1,7 +1,5 @@
-SkipList
-
 ```go
-// skip
+// SkipList
 package main
 
 import (
